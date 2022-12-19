@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Redux-Furniture-Cart/static/css/main.e99f06b1.chunk.css",
+    "main.js": "/React-Redux-Furniture-Cart/static/js/main.fa5bc099.chunk.js",
+    "main.js.map": "/React-Redux-Furniture-Cart/static/js/main.fa5bc099.chunk.js.map",
+    "runtime-main.js": "/React-Redux-Furniture-Cart/static/js/runtime-main.4e85745d.js",
+    "runtime-main.js.map": "/React-Redux-Furniture-Cart/static/js/runtime-main.4e85745d.js.map",
+    "static/css/2.bd767988.chunk.css": "/React-Redux-Furniture-Cart/static/css/2.bd767988.chunk.css",
+    "static/js/2.99a06452.chunk.js": "/React-Redux-Furniture-Cart/static/js/2.99a06452.chunk.js",
+    "static/js/2.99a06452.chunk.js.map": "/React-Redux-Furniture-Cart/static/js/2.99a06452.chunk.js.map",
+    "index.html": "/React-Redux-Furniture-Cart/index.html",
+    "precache-manifest.52f52c9bc6b5593ca59ad9a5ae366d5a.js": "/React-Redux-Furniture-Cart/precache-manifest.52f52c9bc6b5593ca59ad9a5ae366d5a.js",
+    "service-worker.js": "/React-Redux-Furniture-Cart/service-worker.js",
+    "static/css/2.bd767988.chunk.css.map": "/React-Redux-Furniture-Cart/static/css/2.bd767988.chunk.css.map",
+    "static/css/main.e99f06b1.chunk.css.map": "/React-Redux-Furniture-Cart/static/css/main.e99f06b1.chunk.css.map",
+    "static/js/2.99a06452.chunk.js.LICENSE.txt": "/React-Redux-Furniture-Cart/static/js/2.99a06452.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/React-Redux-Furniture-Cart/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e85745d.js",
+    "static/css/2.bd767988.chunk.css",
+    "static/js/2.99a06452.chunk.js",
+    "static/css/main.e99f06b1.chunk.css",
+    "static/js/main.fa5bc099.chunk.js"
+  ]
+}
